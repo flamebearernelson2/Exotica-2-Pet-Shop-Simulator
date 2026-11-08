@@ -201,3 +201,6 @@ This repository serves as the official landing page for Exotica 2: Pet Shop Simu
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Exotica 2 today!**
+
+---
+**Last updated:** 2026-11-08 20:58:47 UTC
